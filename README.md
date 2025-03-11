@@ -1,4 +1,4 @@
-# Multiple Access Protocols
+# Multiple Access Protocols Simulation
 
 This project simulates network multiple access protocols, which allow multiple users to send data simultaneously while minimizing the probability of collisions. The following protocols are implemented:
 
