@@ -1,4 +1,15 @@
-# MultipleAccessProtocols
-This project is a code simulation of network multiple access protocols. Multiple Access protocols provide a situation which minimizes probablity of collision. And users in the network can send data simultaneously. The implemented protocols are: Time Division Multiple Access (TDMA), Dynamic Time Division Multiple Access (D-TDMA) and Code Division Multiple Access (CDMA). For more details check out the project document.
+# Multiple Access Protocols
 
-Contributer: Sepide Bahrami
+This project simulates network multiple access protocols, which allow multiple users to send data simultaneously while minimizing the probability of collisions. The following protocols are implemented:
+
+- **Time Division Multiple Access (TDMA)**
+- **Dynamic Time Division Multiple Access (D-TDMA)**
+- **Code Division Multiple Access (CDMA)**
+
+For further details, check out the project document (`Doc - MA.pdf`).
+
+---
+
+*Contributor: [Sepide Bahrami](https://github.com/sepiidebahramii)*
+
+---
